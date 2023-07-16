@@ -15,7 +15,7 @@ PYTHON:
 >>> import os
 >>> os.chmod('/bin', 0755)
 
-SH:
+SH: (PERL)
 $ sudo perl -e 'chmod 0755, "/bin", "/bin/chmod"';
 
 SH:
